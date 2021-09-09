@@ -7,8 +7,8 @@
         找到内容一个来源 确定url地址 
         只需请求 url地址 附参数 获取它网页源代码 即可获取内容
         怎么找到数据来源
-            1.查看导航栏中url返回的数据内容<判断网页类型 静态/动态网页>
-            2.f12-网络
+        1.查看导航栏中url返回的数据内容<判断网页类型 静态/动态网页>
+        2.f12-网络
 
     代码实现：
         1.对http://www.kfc.com.cn/kfccda/ashx/GetStoreList.ashx?op=keyword实现post请求
